@@ -1,6 +1,5 @@
 html, body {
   margin: 0;
-  padding: 0;
     background: linear-gradient(#ffffff, #ffccff);
     background-repeat: no-repeat;
     background-position: right top;
@@ -9,6 +8,25 @@ html, body {
   h1 {   text-align: center; }
   p {   text-align: center; }
 }
+<style>
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Header</h1>
+</div>
+
+</body>
 canvas {
   display: block;
 }
