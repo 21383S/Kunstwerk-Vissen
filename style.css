@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  text-align: center;
     background: linear-gradient(#ffffff, #ffccff);
     background-repeat: no-repeat;
     background-position: right top;
