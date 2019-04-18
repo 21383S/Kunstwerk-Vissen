@@ -1,7 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: lightblue;
+    background: linear-gradient(#ffffff, #ffccff);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 canvas {
   display: block;
